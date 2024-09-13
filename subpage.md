@@ -1,4 +1,4 @@
-## Civil Engineering
+    ## Civil Engineering
 - [IoE](https://ioe.tu.edu.np/)
     - [Resources for Bachelors in Civil Engineering](https://github.com/pragyanone/BE-Civil)
     - [Resources for MSc in Transportation Engineering](https://github.com/pragyanone/MSTrE2079)
@@ -8,3 +8,10 @@
 - Websites I built:
     - [ShreeSiddhababa.com.np](https://shreesiddhababa.com.np/)
 
+<footer style="text-align: center; font-size: small;">
+
+---
+Contact: 📧PragyanOne[at]gmail.com
+<br>
+© 2024 Pragyan Shrestha. All rights reserved.
+</footer>
