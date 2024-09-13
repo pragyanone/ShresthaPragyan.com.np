@@ -9,7 +9,6 @@
     - [ShreeSiddhababa.com.np](https://shreesiddhababa.com.np/)
 
 ---
----
 <footer style="text-align: center; font-size: small;">
 Contact: 📧PragyanOne[at]gmail.com
 <br>
