@@ -11,6 +11,7 @@
 <footer style="text-align: center; font-size: small;">
 
 ---
+
 Contact: 📧PragyanOne[at]gmail.com
 <br>
 © 2024 Pragyan Shrestha. All rights reserved.
