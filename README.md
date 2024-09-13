@@ -19,5 +19,5 @@
 ### [See more...](subpage.md)
 
 ---
-Contact me:  
+Contact:  
 📧 PragyanOne[at]gmail.com
