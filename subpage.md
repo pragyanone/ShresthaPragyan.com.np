@@ -8,10 +8,9 @@
 - Websites I built:
     - [ShreeSiddhababa.com.np](https://shreesiddhababa.com.np/)
 
-<footer style="text-align: center; font-size: small;">
-
 ---
-
+---
+<footer style="text-align: center; font-size: small;">
 Contact: 📧PragyanOne[at]gmail.com
 <br>
 © 2024 Pragyan Shrestha. All rights reserved.

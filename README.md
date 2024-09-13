@@ -23,10 +23,9 @@ Welcome to my website.
 
 [See more...](subpage.md)
 
-<footer style="text-align: center; font-size: small;">
-
 ---
-
+---
+<footer style="text-align: center; font-size: small;">
 Contact: 📧PragyanOne[at]gmail.com
 <br>
 © 2024 Pragyan Shrestha. All rights reserved.
