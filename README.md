@@ -19,13 +19,13 @@ Welcome to my website.
 - [Plots of Bottom-Up cracking stresses in rigid pavement as per Pavement Design Guidelines (Rigid Pavement) 2021, DoR](https://github.com/pragyanone/RigidPavementBUCStress)
 - [Hamro Patro for your desktop](https://github.com/pragyanone/PyHamroPatro)
 - [Counter app](https://github.com/pragyanone/PyVehicleCounter)
-- [Fetches traffic data from SSRN, DoR \[Department of Roads\] Nepal](https://github.com/pragyanone/SSRNTrafficData)
+- [Fetch traffic data from SSRN, DoR \[Department of Roads\] Nepal](https://github.com/pragyanone/SSRNTrafficData)
 
 [See more...](subpage.md)
 
 ---
 <footer style="text-align: center; font-size: small;">
-Contact: 📧PragyanOne[at]gmail.com
+Contact: PragyanOne[at]gmail.com
 <br>
 © 2024 Pragyan Shrestha. All rights reserved.
 </footer>
