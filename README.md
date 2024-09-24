@@ -10,7 +10,7 @@ Welcome to my website.
 - Convert dates from  **AD**  to  **BS**  and vice-versa:
 <br>[ADBS.exe](https://github.com/pragyanone/Stuffs/raw/main/ADBS/ADBS.exe)
 - Excel toolkit for price adjustment calculation:
-<br>[PriceAdjCalculation.xlsm](https://github.com/pragyanone/Stuffs/raw/main/PriceAdjCalculation.xlsm) (_[watch tutorial](https://youtu.be/neGz1wvZylc)_)  
+<br>[PriceAdjCalculation.xlsm](https://github.com/pragyanone/Stuffs/raw/main/PriceAdjCalculation.xlsm) (_[watch tutorial](https://youtu.be/nySVOjGAQOw)_)  
     - _data upto 2081.Asar (2024.Jun/Jul)_
 
 
